@@ -1,0 +1,8 @@
+Flask
+gunicorn
+requests
+bs4
+openai
+python-dotenv
+oauth2client
+gspread
